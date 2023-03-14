@@ -1,0 +1,21 @@
+{
+    "name": "dev-moez/auth-last-activity",
+    "description": "A package to record user last activity for multi guard applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DevMoez\\AuthLastActivity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdelrahman Moez",
+            "email": "abdelrahman.moez@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    }
+}
